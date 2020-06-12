@@ -1,3 +1,7 @@
+## Preview
+
+![Screenshot 2020-06-12 at 18 32 10](https://user-images.githubusercontent.com/30444602/84519722-282bdd00-acdb-11ea-8609-e46d8305f72d.png)
+
 ## Backend
 
 Install dependencies by executing `yarn install` or `npm install`
